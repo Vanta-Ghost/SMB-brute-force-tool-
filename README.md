@@ -8,7 +8,6 @@ The tool attempts to brute force SMB shares on a target IP using a provided user
 📂 Project Structure
 .
 ├── bruteforce.bat       # Brute force batch script
-
 └── passlist.txt         # Password list (example wordlist)
 
 🚀 Features
